@@ -1,1 +1,1 @@
-# resample_impactx_genesis
+Phase-space-preserving resampling of ImpactX particle distributions for GENESIS FEL simulations.
