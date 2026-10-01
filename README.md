@@ -1,6 +1,6 @@
 # ImpactX/OSIRIS to GENESIS4 Beam Resampling
 
-Convert a **weighted electron-beam particle distribution** from codes such as OSIRIS or IMPACTX into a **slice-based GENESIS4 beam** for time-dependent FEL/SASE simulations.
+Convert a **weighted electron-beam particle distribution** from codes such as OSIRIS or IMPACTX into a **slice-based GENESIS4 beam** for time-dependent FEL/SASE simulations. This description is written by AI.
 
 The resampling procedure is designed to:
 
